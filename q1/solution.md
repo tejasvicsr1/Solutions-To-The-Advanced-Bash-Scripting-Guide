@@ -71,6 +71,7 @@ MAX=10000
 #  Exit statement.
 exit 0
 ```
+***
 
 ## Rewritten Code
 
